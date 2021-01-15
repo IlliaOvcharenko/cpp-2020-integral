@@ -1,0 +1,9 @@
+function: shubert
+n_threads: [1, 2, 4, 8]
+x_interval: [-100, 100]
+y_interval: [-100, 100]
+delta: 0001
+diff: 10.0
+
+verbose: False
+repeat: 4
